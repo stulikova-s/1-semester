@@ -4,8 +4,8 @@ from urllib.parse import urljoin
 from pathlib import Path
 import os
 
-api_token = '0afc96266d8c4cf540413e0aa217493d15577f76'
-username = 'sannydjoun'
+api_token = '###'
+username = '###'
 pythonanywhere_host = "www.pythonanywhere.com"
 
 api_base = "https://{pythonanywhere_host}/api/v0/user/{username}/".format(
